@@ -1,0 +1,83 @@
+---
+title: 索引
+source: https://nodejs.org/api/index.html
+---
+
+# 索引
+
+<!--introduced_in=v0.10.0-->
+
+* [このドキュメントについて](documentation.md)
+
+<hr class="line"/>
+
+* [アサーションテスト](assert.md)
+* [非同期コンテキストの追跡](async_context.md)
+* [Async hooks](async_hooks.md)
+* [ベンチマークランナー](bench.md)
+* [Buffer](buffer.md)
+* [C++ アドオン](addons.md)
+* [Node-API による C/C++ アドオン](n-api.md)
+* [C++ embedder API](embedding.md)
+* [子プロセス](child_process.md)
+* [Cluster](cluster.md)
+* [コマンドラインオプション](cli.md)
+* [Console](console.md)
+* [Crypto](crypto.md)
+* [デバッガ](debugger.md)
+* [非推奨 API](deprecations.md)
+* [Diagnostics Channel](diagnostics_channel.md)
+* [DNS](dns.md)
+* [Domain](domain.md)
+* [環境変数](environment_variables.md)
+* [Errors（エラー）](errors.md)
+* [Events（イベント）](events.md)
+* [File system（ファイルシステム）](fs.md)
+* [FFI](ffi.md)
+* [Globals（グローバル）](globals.md)
+* [HTTP](http.md)
+* [HTTP/2](http2.md)
+* [HTTPS](https.md)
+* [Inspector](inspector.md)
+* [国際化対応](intl.md)
+* [Iterable Streams API](stream_iter.md)
+* [Modules: CommonJS modules](modules.md)
+* [Modules: ECMAScript modules](esm.md)
+* [Modules: `node:module` API](module.md)
+* [Modules: Packages](packages.md)
+* [Modules: TypeScript](typescript.md)
+* [Net](net.md)
+* [OS](os.md)
+* [Path（パス）](path.md)
+* [Performance hooks](perf_hooks.md)
+* [Permissions（権限）](permissions.md)
+* [Process（プロセス）](process.md)
+* [Punycode](punycode.md)
+* [クエリ文字列](querystring.md)
+* [Readline](readline.md)
+* [REPL](repl.md)
+* [Report](report.md)
+* [単一実行可能アプリケーション](single-executable-applications.md)
+* [SQLite](sqlite.md)
+* [Stream（ストリーム）](stream.md)
+* [String decoder](string_decoder.md)
+* [テストランナー](test.md)
+* [Timers（タイマー）](timers.md)
+* [TLS/SSL](tls.md)
+* [トレースイベント](tracing.md)
+* [TTY](tty.md)
+* [UDP/datagram](dgram.md)
+* [URL](url.md)
+* [ユーティリティ](util.md)
+* [V8](v8.md)
+* [Virtual File System](vfs.md)
+* [VM](vm.md)
+* [WASI](wasi.md)
+* [Web Crypto API](webcrypto.md)
+* [Web Streams API](webstreams.md)
+* [Worker threads](worker_threads.md)
+* [Zlib](zlib.md)
+
+<hr class="line"/>
+
+* [コードリポジトリと issue tracker](https://github.com/nodejs/node)
